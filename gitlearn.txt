@@ -8,3 +8,5 @@ learning curve github
 #Experimental Feature 
 installed vscode studio
 ricing desktop 
+installed pavu control for volume optimizer 
+change colorpallete to dracula
