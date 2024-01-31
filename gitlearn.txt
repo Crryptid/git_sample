@@ -10,3 +10,6 @@ installed vscode studio
 ricing desktop 
 installed pavu control for volume optimizer 
 change colorpallete to dracula
+
+install node js 
+install python37
