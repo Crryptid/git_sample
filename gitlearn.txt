@@ -12,3 +12,4 @@ ricing desktop
 
 install alsamixer for audio 
 install vlc
+install gpick for color picker
