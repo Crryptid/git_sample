@@ -13,3 +13,5 @@ change colorpallete to dracula
 
 install node js 
 install python37
+installl Go 
+install rubby
