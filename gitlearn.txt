@@ -9,7 +9,11 @@ learning curve github
 installed vscode studio
 ricing desktop 
 
+installed pavu control for volume optimizer 
+change colorpallete to dracula
 
-install alsamixer for audio 
-install vlc
-install gpick for color picker
+install node js 
+install python37
+installl Go 
+install rubby
+
