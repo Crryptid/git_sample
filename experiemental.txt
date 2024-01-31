@@ -1,1 +1,4 @@
-c
+ricing linux with i3 
+with menu with polybar
+customize kitty terminal 
+install spotify
