@@ -1,0 +1,3 @@
+learning curve github 
+1 learn what is VSC
+2 learn basic git command
