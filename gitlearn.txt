@@ -1,5 +1,5 @@
 learning curve github 
 1 learn what is VSC
 2 learn basic git command
-3 learn branch 
-4 learn pull and push
+3 understand vsc and how git works
+4. learn how to commit git
