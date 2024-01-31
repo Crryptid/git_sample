@@ -3,3 +3,8 @@ learning curve github
 2 learn basic git command
 3 understand vsc and how git works
 4. learn how to commit git
+
+
+#Experimental Feature 
+installed vscode studio
+ricing desktop 
